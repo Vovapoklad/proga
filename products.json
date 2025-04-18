@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Смартфон Galaxy S21",
+    "description": "Флагманский смартфон с AMOLED экраном",
+    "manufacturer": "Samsung",
+    "price": 79990,
+    "discount": 10,
+    "image": null
+  },
+  {
+    "id": 2,
+    "name": "Ноутбук MacBook Pro",
+    "description": "13 дюймов, процессор M1, 8 ГБ ОЗУ",
+    "manufacturer": "Apple",
+    "price": 129990,
+    "discount": 15,
+    "image": null
+  },
+  {
+    "id": 3,
+    "name": "Наушники WH-1000XM4",
+    "description": "Беспроводные наушники с шумоподавлением",
+    "manufacturer": "Sony",
+    "price": 29990,
+    "discount": 5,
+    "image": null
+  },
+  {
+    "id": 4,
+    "name": "Планшет iPad Air",
+    "description": "10.9 дюймов, процессор A14 Bionic",
+    "manufacturer": "Apple",
+    "price": 59990,
+    "discount": 20,
+    "image": null
+  },
+  {
+    "id": 5,
+    "name": "Умные часы Watch 3",
+    "description": "Смарт-часы с функцией ECG",
+    "manufacturer": "Huawei",
+    "price": 19990,
+    "discount": 0,
+    "image": null
+  }
+]
